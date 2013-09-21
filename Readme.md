@@ -1,11 +1,10 @@
-
 # each
 
   Iteration utility
 
 ## Installation
 
-    $ component install bredele/each
+    $ component install leafs/each
 
 ## API
 
