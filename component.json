@@ -4,10 +4,10 @@
   "description": "Iteration utility",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {
+  "dependencies": {},
+  "development": {
     "component/assert": "*"
   },
-  "development": {},
   "license": "MIT",
   "main": "index.js",
   "scripts": [
