@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ component install leafs/each
+    $ component install bredele/each
 
 ## API
 
