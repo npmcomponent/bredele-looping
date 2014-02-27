@@ -4,7 +4,13 @@
 
 ## Installation
 
+with component:
+
     $ component install bredele/each
+
+with nodejs:
+
+    $ npm install each-bredele
 
 ## API
 

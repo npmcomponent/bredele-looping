@@ -1,6 +1,6 @@
 {
-  "name": "each",
-  "version": "0.0.0",
+  "name": "each-bredele",
+  "version": "0.0.1",
   "description": "Iteration utility",
   "main": "index.js",
   "directories": {
@@ -23,5 +23,8 @@
   "readmeFilename": "Readme.md",
   "bugs": {
     "url": "https://github.com/bredele/each/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
   }
 }

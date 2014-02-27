@@ -1,4 +1,4 @@
-var each = require('..');
+var each = require('each');
 var assert = require('assert');
 
 function compare(obj1, obj2){
