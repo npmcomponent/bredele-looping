@@ -1,6 +1,6 @@
 {
-  "name": "each-bredele",
-  "version": "0.0.1",
+  "name": "bredele-each",
+  "version": "0.1.0",
   "description": "Iteration utility",
   "main": "index.js",
   "directories": {
