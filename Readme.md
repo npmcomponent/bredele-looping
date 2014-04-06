@@ -1,6 +1,6 @@
 # each
 
-  Iteration utility
+  Iteration utility.
 
 ## Installation
 
@@ -13,6 +13,9 @@ with nodejs:
     $ npm install each-bredele
 
 ## API
+
+You'll find lots of iteration components out there (like [component-each](https://github.com/component/each)). However, `each` exposes a consistent API for both arrays and objects (the first argument is the object's key - or index for an array).
+
 
 ### each(array, fn, [scope])
 
