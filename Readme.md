@@ -1,4 +1,4 @@
-# each
+# Looping
 
   Iteration utility.
 
@@ -6,11 +6,11 @@
 
 with component:
 
-    $ component install bredele/each
+    $ component install bredele/looping
 
 with nodejs:
 
-    $ npm install bredele-each
+    $ npm install looping
 
 ## API
 
@@ -22,6 +22,7 @@ You'll find lots of iteration components out there (like [component-each](https:
   Iterate an array:
 
 ```js
+var each = require('looping');
 each(['olivier', 'bredele'], function(key, val){
   //key is the array's index
 })
@@ -32,6 +33,7 @@ each(['olivier', 'bredele'], function(key, val){
   Iterate an object;
 
 ```js
+var each = require('looping');
 each(conf, function(key, val){
   //key is the object's key
 })

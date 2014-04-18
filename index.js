@@ -1,6 +1,6 @@
 
 /**
- * Expose 'each'
+ * Expose 'looping'
  */
 
 module.exports = function(obj, fn, scope){

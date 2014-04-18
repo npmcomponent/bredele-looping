@@ -1,8 +1,8 @@
 {
-  "name": "each",
-  "repo": "bredele/each",
+  "name": "looping",
+  "repo": "bredele/looping",
   "description": "Iteration utility",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {},
   "development": {
