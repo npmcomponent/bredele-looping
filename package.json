@@ -1,30 +1,9 @@
 {
-  "name": "looping",
-  "version": "1.0.0",
+  "name": "bredele-looping",
   "description": "Iteration utility",
+  "version": "1.0.0",
+  "keywords": [],
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/bredele/looping.git"
-  },
-  "keywords": [
-    "iteration",
-    "each",
-    "loop"
-  ],
-  "author": "Olivier Wietrich",
-  "license": "BSD",
-  "readmeFilename": "Readme.md",
-  "bugs": {
-    "url": "https://github.com/bredele/looping/issues"
-  },
-  "devDependencies": {
-    "mocha": "~1.17.1"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
